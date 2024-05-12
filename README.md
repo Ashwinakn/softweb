@@ -142,7 +142,7 @@ Publish the website in the given URL.
         </div>
     </div>
     <footer>
-        <p1>&#169ARJUN N S [212223230020]~SEC</p1>
+        <p1>&#169ASHWINA K N [212223230025]~SEC</p1>
     </footer>
 </body>
 </html>
@@ -339,7 +339,7 @@ Publish the website in the given URL.
 
     </div>
     <footer>
-        <p1>&#169ARJUN N S [212223230020]~SEC</p1>
+        <p1>&#169ASHWINA K N [212223230025]~SEC</p1>
     </footer>
 </body>
 </html>
